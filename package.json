@@ -1,0 +1,23 @@
+{
+  "name": "memory-game-walkthrough",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanbrindley17/memory-game-walkthrough.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanbrindley17/memory-game-walkthrough/issues"
+  },
+  "homepage": "https://github.com/seanbrindley17/memory-game-walkthrough#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0"
+  }
+}
